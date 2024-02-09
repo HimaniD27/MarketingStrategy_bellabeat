@@ -23,8 +23,8 @@ To analyze smart device usage data in order to gain insight into how consumers u
 >Locate the folder of this project on your computer.
 
 4. Open R Studio:
->Inside the project folder, find a file named [bellaRstudio.Rproj](https://github.com/HimaniD27/MarketingStrategy_bellabeat/blob/main/bellaRstudio.Rproj).
->Open this file, and it will automatically open RStudio.
+>Inside the project folder, you will see an R project named [bellaRstudio.Rproj](https://github.com/HimaniD27/MarketingStrategy_bellabeat/blob/main/bellaRstudio.Rproj).
+>Click on this project, and it will automatically open RStudio.
 
 5. Run Code:
 >RStudio will automatically open the file named [bella.R](https://github.com/HimaniD27/MarketingStrategy_bellabeat/blob/main/bella.R).
