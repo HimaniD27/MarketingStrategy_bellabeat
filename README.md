@@ -1,3 +1,5 @@
+# Bellabeat Marketing Strategy 
+
 ## Overview: 
 * To obtain a comprehensive understanding of this project, the employed strategy and the findings, please refer to my kaggle notebook: [Marketing Strategy Bellabeat](https://www.kaggle.com/code/himanidh/bellabeat-s-marketing-strategy-an-extensive-report).
   
